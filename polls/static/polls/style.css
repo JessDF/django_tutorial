@@ -2,6 +2,11 @@ li a {
     color: green;
 }
 
+h1 {
+   color: #000080;
+   text-decoration: underline;
+}
+
 body {
     background: white url("rose.png") no-repeat right bottom;
 }
