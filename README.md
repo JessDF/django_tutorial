@@ -9,3 +9,7 @@ Working through the "Writing your first Django App" tutorials
 
 ### Link to first part of tutorial:
  - https://docs.djangoproject.com/en/2.0/intro/tutorial01/
+
+### Important commands
+ - To run shell: ```python manage.py shell```
+ - To run tests: ```python manage.py test polls```
